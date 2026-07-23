@@ -78,13 +78,7 @@ Modern landing page with responsive design.
 
 ---
 
-## 🎯 2026 Goals
 
-- Build 50+ professional websites
-- Launch my own web agency
-- Build SaaS products
-- Learn AI automation
-- Reach ₹5L/month through software & services
 
 ---
 
