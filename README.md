@@ -90,7 +90,7 @@ Modern landing page with responsive design.
 
 ## 📫 Contact
 
-📧 Email: your@email.com
+📧 Email: prixan7@email.com
 
 💼 LinkedIn: https://linkedin.com/in/yourusername
 
